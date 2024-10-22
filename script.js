@@ -41,7 +41,3 @@ class Teacher extends Person {
 window.Person = Person;
 window.Student = Student;
 window.Teacher = Teacher;
-// Do not change the code below this line
-window.Person = Person;
-window.Student = Student;
-window.Teacher = Teacher;
